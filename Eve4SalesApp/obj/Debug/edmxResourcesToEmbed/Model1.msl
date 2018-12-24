@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SALES_DATAModelStoreContainer" CdmEntityContainer="Entities">
+    <FunctionImportMapping FunctionImportName="sp_DisplayFilteredView" FunctionName="SALES_DATAModel.Store.sp_DisplayFilteredView">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SALES_DATAModel.sp_DisplayFilteredView_Result">
+          <ScalarProperty Name="MarketModelId" ColumnName="MarketModelId" />
+          <ScalarProperty Name="Make" ColumnName="Make" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Market" ColumnName="Market" />
+          <ScalarProperty Name="TotalSales" ColumnName="TotalSales" />
+          <ScalarProperty Name="TransID" ColumnName="TransID" />
+          <ScalarProperty Name="ForYear" ColumnName="ForYear" />
+          <ScalarProperty Name="Doneflag" ColumnName="Doneflag" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

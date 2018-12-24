@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "User created";
+    }
+
+<br /> 
+<div class="well">
+
+    <h2><span class="glyphicon glyphicon-saved"> </span> &nbsp; <b>@ViewBag.Email</b> - Welcome to EVE! </h2>
+    <h3>Remember to change your password using <b>Admin > Change Password</b> once logged in</h3>
+   
+    <br />
+    @Html.ActionLink("<< Return Home", "Index", "Home")
+
+</div>

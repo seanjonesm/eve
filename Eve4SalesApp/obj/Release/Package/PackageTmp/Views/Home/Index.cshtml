@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<br />
+<div class="container">
+    <div style="margin-top:50px;" class="mainbox col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <div class="panel-title"><b><span class="glyphicon glyphicon-stats"></span> Track Wheel-Alignment Specification Coverage</b></div>
+                                                           
+            </div>
+            <div style="padding-top:30px; padding-left: 100px; background-color:#FFFFFF;" class="panel-body">
+
+@if (User.Identity.IsAuthenticated)
+{
+     <div style="float:right; font-size: 80%; position: relative; top:-10px"><button class="btn btn-primary">Unlocked &nbsp; <span class="glyphicon glyphicon-edit"></span></button></div>
+}
+else
+{
+    <div style="float:right; font-size: 80%; position: relative; top:-10px"><a href="/EVE/Account/Login" class="btn btn-default">Read Only <span class="glyphicon-lock"></span></a></div>
+
+}
+
+
+                @using (Html.BeginForm("Index", "SalesModels", FormMethod.Get))
+            {
+                    <h4>Enter search criteria</h4>
+                    <br />
+
+                    <h5>Select Market</h5>
+                    @Html.DropDownList("marketCode", new SelectList(ViewBag.ListofMarkets, "NA").OrderByDescending(x => x.Text), new { @class = "form-control" })
+                    <br />
+                    <h5>Select Timeframe</h5>
+
+                    @Html.DropDownList("timeFrame", new SelectList(ViewBag.ListofYears).OrderByDescending(x => x.Text), new { @class = "form-control" })
+
+                    <br />
+                    <br />
+
+
+                    <input type="submit" value="Submit" class="btn-primary btn" width="100" />
+
+
+                }
+                <br />
+                              
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

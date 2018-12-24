@@ -1,0 +1,196 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.MapViewModel>
+
+@{
+    ViewBag.Title = "Track Coverage";
+}
+
+
+
+<div id='myModal' class='modal fade'>
+    <div class="modal-dialog" >
+        <div class="modal-content">
+            <div id='myModalContent'></div>
+        </div>
+    </div>
+
+</div>   
+
+<div class="container">
+    <div class="col-sm-10">
+        <h3>Showing data for @ViewBag.CurrentMarketCode/@ViewBag.CurrentYear</h3>
+        <form method="get" class="form-inline">
+            <input type="search" name="refinedSearch" class="form-control" value="@ViewBag.refinedSearch" />
+            <input type="submit" value="Filter" class="btn btn-primary" />
+            @if (@ViewBag.refinedSearch != "" && @ViewBag.refinedSearch != null )
+            {
+            @Html.ActionLink("Reset", "Index", "SalesModels", new { timeframe = ViewBag.CurrentYear, marketcode = ViewBag.CurrentMarketCode, refinedSearch = "." }, new { @class = "btn btn-info" })
+            }
+
+         </form>
+
+    <br />
+    </div>
+    <div class="col-md-2">
+        <br /><br />
+
+        @Html.ActionLink("Show Stats", "StatsResult", "SalesModels", new { timeframe = ViewBag.CurrentYear, marketcode = ViewBag.CurrentMarketCode }, new { @class = "btn-info btn" })
+
+</div>
+
+    </div>
+
+<table class="table table" cellpadding="5" width:100%">
+    <tr style="background: #eeeeee;">
+        <th>
+            Rank/Tier
+        </th>
+        <th>
+            Make 
+        </th>
+        <th>
+            Model
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Market)
+        </th>
+         <th>
+           Total Sales (@ViewBag.CurrentYear)
+        </th>
+       <th>Release</th>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <th>
+        @if (ViewBag.CurrentMarketCode != "NA"){
+        <center> Click To Update &nbsp; <a href="#" data-toggle="tooltip" title="Updating coverage will update all EU markets"><span class="glyphicon glyphicon-warning-sign"></span></a></center>
+        } else {
+        <center>Click To Update </center>
+            }
+</th>
+}
+else
+{
+    <th>
+        <center> Coverage &nbsp; <a href="#" data-toggle="tooltip" title="Log-in to update coverage"><span class="glyphicon-lock"></span></a></center>
+    </th>
+
+
+}
+
+</tr>
+  
+     @foreach (var item in Model)
+     {
+
+
+         if (item.DoneFlag)
+         {
+           @: <tr style="background: rgba(0, 255, 0, 0.2);">
+                } else { 
+           @: <tr style="background: rgba(255, 0, 0, 0.2);">
+           }
+
+                <td>#@item.ModelRank (T-@item.Tier)</td>
+
+                <td>
+                   <font style="color: @item.MakeColour.Trim();"> @Html.DisplayFor(modelItem => item.Make) </font>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Model)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Market)
+                </td>
+
+                <td> @if (item.TotalSales < 0)
+                {
+
+                        <b>TBD</b>
+
+                }
+                else
+                {
+
+                    if (item.ManualAdd == true && !(item.SalesCalculatedFromRank == true))
+                    {    @item.TotalSales @:&nbsp; 
+                        <a href="#" data-toggle="tooltip" title="Manual Add" style="color: #000000"><span class="glyphicon glyphicon-exclamation-sign"></span></a> }
+                    else if (item.ManualAdd == true && item.SalesCalculatedFromRank == true)
+                    {
+                       <i><font style="color:darkgray;"> @item.TotalSales</font></i> @:&nbsp;
+                        <a href="#" data-toggle="tooltip" title="Manual Add - Sales Figures calculatation based on Rank" style="color: #000000"><span class="glyphicon glyphicon-exclamation-sign"></span></a> }
+
+                    else {
+                    @item.TotalSales
+                    }
+                }
+
+    </td>
+
+    <td>@item.ReleaseInfo</td>
+           
+            <td>
+
+                @if (User.Identity.IsAuthenticated)
+                {
+
+                    @Html.HiddenFor(modelItem => item.TransID)
+                    @Html.HiddenFor(modelItem => item.ForYear)
+
+
+                    if (item.DoneFlag && !(item.NotAvailableFlag))
+                    {
+
+                        <center> <a href="javascript:void(0);" class="CoverageEdit" title="Click to update coverage" data-id="@item.TransID"><img src="@Url.Content("~/Content/circle_tick.png")" width="20" height="20"></a> </center>
+
+                    }
+                    else if (!(item.DoneFlag) && !(item.NotAvailableFlag))
+                    {
+
+                        <center><a href="javascript:void(0);" class="CoverageEdit" title="Click to update coverage" data-id="@item.TransID"><img src="@Url.Content("~/Content/circle.png")" width="20" height="20"></a></center>
+
+                    }
+
+                    else
+                    {
+
+                        <center> <a href="javascript:void(0);" class="CoverageEdit" title="Click to update coverage" data-id="@item.TransID"><img src="@Url.Content("~/Content/redx.png")" width="20" height="20"></a> </center>
+
+                    }
+
+                }
+                else
+                {
+                    
+                    if (item.DoneFlag && !(item.NotAvailableFlag))
+                    {
+
+                        <center><img src="@Url.Content("~/Content/circle_tick.png")" width="20" height="20"></center>
+
+                    }
+                    else if (!(item.DoneFlag) && !(item.NotAvailableFlag))
+                    {
+
+                        <center><img src="@Url.Content("~/Content/circle.png")" width="20" height="20"></center>
+
+                    }
+
+                    else
+                    {
+                        <center> <img src="@Url.Content("~/Content/redx.png")" width="20" height="20"></center>
+
+                    }
+
+                }
+            </td>
+
+
+         @:   </tr>       
+}        
+
+
+
+
+ </table>
+ 
+
+

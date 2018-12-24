@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVE - @ViewBag.Title</title>
+    <link rel="shortcut icon" type="image/ico" href="~/Content/eve_ico_main.ico">
+    @Styles.Render("~/Content/css") 
+
+   
+    <link rel="stylesheet" href="~/Content/percircle.css">
+
+    
+</head>
+<body>
+        <div class="navbar navbar-inverse navbar-fixed-top" style="background: #222222;">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("EVE (Beta)", "Index", "Home", new { area = "" }, new { @class = "navbar-brand brand-name" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-equalizer"></span>Reports<span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="width:250px">
+
+                            <li><a href="/EVE/Reports/MarketOverview">Market Coverage Overview</a></li>
+                            <li><a href="/EVE/Reports/PriorityList">Model Priority List</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/EVE/SalesModels/AggEU">EU Aggregate Sales Data</a></li>
+                            
+                        </ul>
+                    </li>
+
+
+
+
+
+
+                    <li>@Html.ActionLink("Export Data", "Index", "ExcelExportViewModels")</li>
+                 </ul>
+               @Html.Partial("_LoginPartial")
+            </div> 
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+       
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Snap-On Diagnostics</p>
+        </footer>
+      
+    </div>
+        
+
+    @Scripts.Render("~/bundles/eve")
+    @Scripts.Render("~/bundles/bootstrap")
+    
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript" src="~/Scripts/percircle.js"></script>
+    <script type="text/javascript">
+    $(function(){
+        $("#green").percircle(
+            {
+                progressBarColor: "#98E2C6"
+              }
+            );
+    });
+    </script>
+
+    <script type="text/javascript">
+    $(function(){
+        $("#yellow").percircle(
+            {
+                progressBarColor: "#ffffe0"
+              }
+            );
+    });
+    </script>
+
+    <script type="text/javascript">
+    $(function(){
+        $("#pink").percircle(
+            {
+                progressBarColor: "#5DADE2"
+              }
+            );
+    });
+    </script>
+
+
+    <script type="text/javascript">
+        $('#tier1').simpleSkillbar();
+                  
+        $('#tier2').simpleSkillbar();
+
+        $('#tier3').simpleSkillbar();
+
+    </script>
+
+
+</body>
+</html>

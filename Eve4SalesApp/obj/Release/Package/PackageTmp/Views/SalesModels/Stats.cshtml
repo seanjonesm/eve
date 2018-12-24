@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Stats";
+}
+
+
+<div class="container">
+
+    <div style="padding:30px;">
+       
+        @using (Html.BeginForm("StatsResult", "SalesModels", FormMethod.Get, new { @class = "form-horizontal" }))
+        {
+
+            @Html.DropDownList("marketCode", new SelectList(ViewBag.ListofMarkets, "marketCode"), "Select Market", new { @class = "form-control" })
+
+
+
+            @Html.DropDownList("timeFrame", new SelectList(ViewBag.ListofYears, "timeFrame"), "Select Timeframe", new { @class = "form-control" })
+
+
+            <input type="submit" value="Go!" class="btn btn-default" width="100" />
+
+        }
+        </div>
+
+    </div>
+
+
+

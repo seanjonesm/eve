@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.StatsViewModel>
+
+
+<div>
+
+    <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="statsModalLabel">Update Model Coverage</h4>
+    </div>
+
+
+    @foreach (var item in Model)
+    {
+
+        <div class="container" style="background:#FFFFFF">
+            <div class="col-sm-3">
+                <span><h2>@item.MarketCode</h2></span>
+                <span><h3>@item.SalesYear</h3></span>
+
+            </div>
+            <br /><br />
+            <div class="col-sm-4" align="center">
+
+
+                <div id="green" data-percent="@item.CalcValue" class="big">
+
+
+                </div>
+            </div>
+
+            <div class="col-sm-5" align="center">
+
+
+                <div id="yellow" data-percent="1" class="big">
+
+
+                </div>
+            </div>
+        </div>
+
+    }
+
+</div> 

@@ -1,0 +1,87 @@
+﻿@model Eve4SalesApp.Models.ModelYearDeclaration
+
+
+
+
+
+                   <div class="modal-body">
+
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title" id="myModalLabel">Update Model Coverage</h4> 
+                       <br />
+ 
+
+                    @using (Html.BeginForm("Edit", "ModelYearDeclarations"))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-inline">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            @Html.HiddenFor(model => model.TransID)
+
+                            <div class="form-group">
+
+                                <div class="hidden">
+                                    @Html.HiddenFor(model => model.MarketModelId, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.MarketModelId, "", new { @class = "text-danger" })
+                                    @Html.HiddenFor(model => model.ForYear, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.ForYear, "", new { @class = "text-danger" })
+                                    @Html.HiddenFor(model => model.ReleaseInfo, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.ReleaseInfo, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <br />
+
+                            <div class="form-group">
+                                <div>
+                                    <div class="checkbox-inline">
+
+                                        <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+                                            <input type="checkbox" class="checkbox" name="DoneFlag" value="true" />
+
+                                            <span class="checkbox-placeholder"></span>
+                                            Declare this model as <b>DONE</b>
+                                        </label>
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+                            <div class="form-group">
+                                <div>
+                                    <div class="checkbox-inline">
+
+                                        <label class="checkbox-inline checkbox-bootstrap-na checkbox-lg">
+                                            <input type="checkbox" class="checkbox" name="NotAvailableFlag" value="true" />
+
+                                            <span class="checkbox-placeholder-na"></span>
+                                            Model Not Available
+                                        </label>
+
+                                    </div>
+                                </div>
+
+                             </div>
+                            <div class="form-group">
+                                <div class="col-md-2">
+                                    <input type="submit" value="Save" class="btn btn-primary" />
+                                </div>
+                            </div>
+
+                            <br />                                                                                    
+                            <hr />
+                        </div>
+                    }
+
+                       <center> @Html.ActionLink("Model Options", "EditModel", "Maintenance", new { transId = Model.TransID}, new { @class = "btn-default btn" })</center>
+
+
+
+
+                </div>
+
+
+
+

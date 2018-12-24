@@ -1,0 +1,116 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.StatsViewModel>
+
+@{
+    ViewBag.Title = "Statistics";
+}
+
+<br />
+@Html.ActionLink("<< Back to list", "Index", "SalesModels", null, new { @class = "btn-default btn" })
+<br /><br />
+
+
+@foreach (var item in Model)
+{
+    if (item.Make.Trim() == "A")
+    {
+
+      @:  <div class="panel panel-body" style="background: #EEEEEE; border: 1px solid black; ">
+            <div class="col-sm-3">
+                <span><h2>@item.MarketCode</h2></span>
+                <span><h3>@item.SalesYear</h3></span>
+                <div class="col-sm-3"></div>
+
+            </div>
+            <br /><br />
+            <div class="col-sm-4" style="align-content: center;" >
+                <div id="pink" data-percent="@item.gCalcValue" class="big">
+            </div>
+   
+            </div>
+
+
+    }
+    else if (item.Make.Trim() == "X")
+    {
+
+        
+        <div class="col-sm-2" align="center">
+                <br /><br /> <br />
+                <div id="green" data-percent="@item.gCalcValue" class="small" style="align-content:center">
+                 
+                </div>
+        </div>
+
+            <div class="col-sm-3" align="center">
+
+                
+                <br /><br /> <br />
+                <div id="yellow" data-percent="@item.yCalcValue" class="small">
+                    </div>
+
+            </div>
+           
+            
+
+
+
+
+      @:  </div>
+
+
+    @: <div class="panel panel-body" style="background: #EEEEEE; border: 1px solid black; ">
+
+
+
+
+    } else if (item.Make.Trim() == "T1") {
+double width = item.gCalcValue;
+<label>T1 (@item.gCalcValue%)</label>
+<div id="tier1" data-width="@width" data-background="#BFEDEF"></div>
+<br />
+
+    }
+    else if (item.Make.Trim() == "T2")
+    {
+        double width = item.gCalcValue;
+ <label>T2 (@item.gCalcValue%)</label>
+<div id="tier2" data-width="@width" data-background="#BBC7CE"></div>
+<br />
+
+    }
+    else if (item.Make.Trim() == "T3")
+    {
+        double width = item.gCalcValue;
+<label>T3 (@item.gCalcValue%)</label>
+<div id="tier3" data-width="@width" data-background="#C4B7CB"></div>
+
+@:</div>
+
+<h4>Top Makes - @item.MarketCode / @item.SalesYear </h4>
+@: <table class="table-striped table-bordered table-hover" style="width:100%; position:center;" cellpadding="10">
+
+    <tr>
+        <th>Make</th>
+        <th>% of Car Park</th>
+        <td align="right"><b>Coverage</b></td>
+        </tr>
+
+
+
+    } else
+    {
+
+
+    <tr style="font-size: medium;">
+        <td>@item.Make</td>
+        <td>@item.MarketShare%</td>
+        <td align="right"><b>@item.gCalcValue%</b></td>
+      
+
+    </tr>
+
+    }
+
+    }
+
+</table>

@@ -1,0 +1,343 @@
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\ApplicationInsights.config
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\csc.exe
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\vbc.exe
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll.config
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.pdb
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Owin.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\WebGrease.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.dll
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.pdb
+C:\Users\ur8803\documents\visual studio 2015\Projects\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.csprojResolveAssemblyReference.cache
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\ApplicationInsights.config
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\csc.exe
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\vbc.exe
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll.config
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Owin.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\WebGrease.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\ClosedXML.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\DocumentFormat.OpenXml.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\FastMember.Signed.dll
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\ClosedXML.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\bin\DocumentFormat.OpenXml.xml
+C:\Users\ur8803\Documents\Sandbox\Source_Eve\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.csprojResolveAssemblyReference.cache
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\ApplicationInsights.config
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\csc.exe
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\vbc.exe
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll.config
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\ClosedXML.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\DocumentFormat.OpenXml.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\FastMember.Signed.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Owin.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\WebGrease.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\ClosedXML.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\DocumentFormat.OpenXml.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Helpers.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Mvc.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Optimization.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\EVE_SOURCE\Eve4SalesApp\Eve4SalesApp\obj\Debug\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\ApplicationInsights.config
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\csc.exe
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\vbc.exe
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Eve4SalesApp.dll.config
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Antlr3.Runtime.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\ClosedXML.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\DocumentFormat.OpenXml.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\FastMember.Signed.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.Web.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Newtonsoft.Json.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Owin.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Helpers.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Mvc.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Optimization.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\WebGrease.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\ClosedXML.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\DocumentFormat.OpenXml.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.Web.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Helpers.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Mvc.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Optimization.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Antlr3.Runtime.pdb
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Newtonsoft.Json.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\obj\Debug\Eve4SalesApp.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\obj\Debug\Eve4SalesApp.pdb
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\bin\FoolproofValidation.dll
+C:\Users\ur8803\Documents\Sandbox\QSS\Eve4SalesApp\obj\Debug\Eve4SalesApp.csprojResolveAssemblyReference.cache

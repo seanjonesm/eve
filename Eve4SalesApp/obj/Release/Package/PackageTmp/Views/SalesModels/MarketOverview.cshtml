@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.MarketOverviewViewModel>
+
+@{
+    ViewBag.Title = "Markets Overview";
+}
+
+<br />
+<h4>Market Overview by Year</h4>
+
+<br />
+
+<table class="table-striped" width="100%" cellpadding="20" style="font-size:12px;">
+    <tr>
+        <td align="right">
+           <b>Sales Year </b>
+        </td>
+
+        <td align="right">
+            <b>North America </b>
+</td>
+        <td align="right">
+            <b>Germany </b>
+        </td>
+        <td align="right">
+            <b>France</b>
+        </td>
+        <td align="right">
+            <b>UK</b>
+        </td>
+        <td align="right">
+            <b>Italy</b>
+        </td>
+        </tr>
+
+@foreach (var item in Model) {
+    <tr>
+
+        <td align="right">
+            <b>@Html.DisplayFor(modelItem => item.SalesYear) </b>
+        </td>
+
+        <td align="right">
+            @Html.DisplayFor(modelItem => item.naVal)%
+        </td>
+        <td align="right">
+            @Html.DisplayFor(modelItem => item.deVal)%
+        </td>
+        <td align="right">
+            @Html.DisplayFor(modelItem => item.frVal)%
+        </td>
+        <td align="right">
+            @Html.DisplayFor(modelItem => item.ukVal)%
+        </td>
+        <td align="right">
+            @Html.DisplayFor(modelItem => item.itVal)%
+        </td>
+       
+    </tr>
+}
+
+</table>

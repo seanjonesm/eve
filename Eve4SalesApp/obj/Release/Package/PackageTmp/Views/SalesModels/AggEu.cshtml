@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.AggEuList>
+
+@{
+    ViewBag.Title = "EU Aggregate Sales Data";
+}
+
+<h3>Showing EU Aggregate Sales Data (@ViewBag.TimeFrame)</h3>
+
+<form method="get" class="form-inline">
+  
+
+    @Html.DropDownList("timeframe", new SelectList(ViewBag.ListofYears).OrderByDescending(x => x.Text), new { @class = "form-control" })
+
+    <input type="submit" value="Submit" class="btn-primary btn" width="100" />
+</form>
+
+    <br /><br />
+
+    <table class="table table-bordered" cellpadding="5" style="width:100%;">
+        <tr tr style="background: #eeeeee;">
+            <th>
+                EU Rank
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Make)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                EU Aggregate Sales
+            </th>
+            <th>
+                Associated Markets
+            </th>
+            <th>
+                Coverage
+            </th>
+
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            if (item.Coverage)
+            {
+                
+             @:   <tr style="background: rgba(0, 255, 0, 0.2);">
+                }
+            else
+            {
+
+                @:   <tr style="background: rgba(255, 0, 0, 0.2);">
+    }
+
+            <td>
+                @Html.DisplayFor(modelItem => item.EURank)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalEU)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MarketList)
+            </td>
+            <td>
+                @if (item.Coverage)
+                {
+
+                    <center> <span class="glyphicon glyphicon-ok"></span></center>
+
+                }
+
+
+            </td>
+
+
+
+            @:  </tr>
+
+
+        }
+
+    </table>

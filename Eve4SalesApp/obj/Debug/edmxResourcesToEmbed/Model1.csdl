@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SALES_DATAModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="sp_DisplayFilteredView" ReturnType="Collection(SALES_DATAModel.sp_DisplayFilteredView_Result)" />
+  </EntityContainer>
+  <ComplexType Name="sp_DisplayFilteredView_Result">
+    <Property Type="Int32" Name="MarketModelId" Nullable="false" />
+    <Property Type="String" Name="Make" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Model" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Market" Nullable="true" MaxLength="2" />
+    <Property Type="Int32" Name="TotalSales" Nullable="true" />
+    <Property Type="Int32" Name="TransID" Nullable="false" />
+    <Property Type="Int32" Name="ForYear" Nullable="true" />
+    <Property Type="Boolean" Name="Doneflag" Nullable="true" />
+  </ComplexType>
+</Schema>

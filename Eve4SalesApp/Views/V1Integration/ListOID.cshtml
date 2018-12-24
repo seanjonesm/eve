@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Eve4SalesApp.Models.ListOIDViewModel>
+
+@{
+    ViewBag.Title = "V1 OID Manage";
+}
+
+
+<br />
+<h4>Manage OID Links / Backlog Goals (VersionOne) </h4>
+
+<form method="get" class="form-inline">
+@Html.DropDownList("cMake", new SelectList(ViewBag.ListofMakes, ViewBag.CurrentMake).OrderBy(x => x.Text), new { @class = "form-control" })
+<input type="submit" value="Filter" class="btn btn-primary" />
+</form>
+<br />
+
+@if (ViewBag.MakeSelected == "no") {
+
+    <div class="well">
+        Select a make from the dropdown list
+    </div>
+
+}
+
+else {
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <tr>
+        <th>
+            <b>Make</b>
+        </th>
+        <th>
+            <b>Model</b>
+        </th>
+        <th>
+            V1 Backlog Goal
+        </th>
+        <th>
+            Goal OID
+        </th>
+        <th>
+            Test OID Link 
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Make)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Model)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BacklogGrp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GrpOID)
+        </td>
+        
+            @if (item.GrpOID == null)
+            {
+                <td></td>
+            }
+
+            else
+            {
+               <td><a href="@Url.Content("http://v1.corp.mitchellrepair.com/M1VersionOne/Goal.mvc/Summary?oidToken=Goal%3A" + item.GrpOID.ToString())" target="_blank">Test Link</a></td>
+            }
+
+
+                       
+
+
+             <td align="center">
+            @Html.ActionLink("Edit", "EditOID", new { id=item.SalesModelID })
+        </td>
+    </tr>
+}
+
+</table>
+
+}

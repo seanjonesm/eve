@@ -1,0 +1,48 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.modal-dialog {
+        position: absolute;
+        top: 250px;
+        right: 100px;
+        bottom: 0;
+        left: 0;
+        z-index: 10040;
+        overflow: auto;
+        overflow-y: auto;
+}
+
+
+
+ul .legend { list-style: none; }
+ul .legend li { float: left; margin-right: 10px; }
+ul .legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+
+ul .legend .superawesome { background-color: #ff00ff; }
+ul .legend .awesome { background-color: #00ffff; }
+ul .legend .kindaawesome { background-color: #0000ff; }
+ul .legend .notawesome { background-color: #000000; }
+
+
